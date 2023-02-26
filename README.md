@@ -7,11 +7,10 @@
 
 ### Tools
 <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/뱃지레이블-배경색?style=flat-square&logo=로고&logoColor=white"/>
+<img src="https://img.shields.io/badge/Visual Studio Code-배경색?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
 
 <!--
-<img src="https://img.shields.io/badge/뱃지레이블-배경색?style=for-the-badge&logo=로고&logoColor=white"/>
+<img src="https://img.shields.io/badge/Visual Studio Code-배경색?style=for-the-badge&logo=Visual Studio Code&logoColor=white"/>
 **jihye0526/jihye0526** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
